@@ -13,7 +13,7 @@ const LoginPage = () => {
 
     const handleSubmit = async (e) => {
 
-        e.preventDefault(); // Prevent default form submission behavior
+        e.preventDefault(); // Prevent default form submission behaviors
  
         try {
 
