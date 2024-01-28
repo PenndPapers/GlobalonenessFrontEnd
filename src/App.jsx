@@ -11,6 +11,9 @@ const routes = createBrowserRouter([
     path: "/",
     element: <LadingPage />,
   },
+  {
+      
+  },
   // {
   //   path: "/dashboard",
   //   element: <Dashboard />,
